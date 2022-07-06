@@ -13,7 +13,7 @@
   max-width: 600px;
   margin: 0 auto;
   border-bottom: 1px solid #f2f2f2;
-  background-color: black;
+  background-color: rgb(89, 16, 16);
 }
 .navbar h1 {
   color: white;
