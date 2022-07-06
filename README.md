@@ -1,3 +1,19 @@
+# To Run it on your system
+
+1.clone this repo
+2.add node modules(npm install)
+3.run json server(npx json-server --watch database/db.json --port 8000) in a new terminal
+4.(npm start)
+
+# About the project
+
+![Screenshot from 2022-07-06 16-32-16](https://user-images.githubusercontent.com/101265586/177547786-e2101f4e-6fac-4480-803d-cf0353ba1778.png)
+
+![Screenshot from 2022-07-06 16-32-25](https://user-images.githubusercontent.com/101265586/177547835-3f9c7f66-ebe2-4dde-9202-190dce029256.png)
+
+![Screenshot from 2022-07-06 16-32-31](https://user-images.githubusercontent.com/101265586/177547938-03b37d60-630e-43c9-9ecf-627206fa7167.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
