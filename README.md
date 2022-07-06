@@ -8,6 +8,8 @@
 
 4.(npm start)
 
+*Plz try to solve isseue #1*
+
 # About the project
 
 ![Screenshot from 2022-07-06 16-32-16](https://user-images.githubusercontent.com/101265586/177547786-e2101f4e-6fac-4480-803d-cf0353ba1778.png)
