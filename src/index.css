@@ -13,7 +13,7 @@
   max-width: 600px;
   margin: 0 auto;
   border-bottom: 1px solid #f2f2f2;
-  background-color: black;
+  background-color: rgb(89, 16, 16);
 }
 .navbar h1 {
   color: white;
@@ -25,7 +25,7 @@
   margin-left: 16px;
   text-decoration: none;
   padding: 6px;
-  color: #f1356d;
+  color: white;
 }
 .navbar a:hover {
   color: #f1356d;
@@ -80,14 +80,14 @@
   margin: 20px 0;
 }
 .blog-details button {
-    background: #f1356d;
-    color: #fff;
-    border: 0;
-    padding: 8px;
-    font-size: 1rem;
-    border-radius: 8px;
-    cursor: pointer;
-  }
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
 .blog-details article {
   background-color: bisque;
   font-size: 1.5rem;
