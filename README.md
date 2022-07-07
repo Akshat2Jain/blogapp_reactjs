@@ -5,7 +5,8 @@
 2.add node modules(npm install)
 
 3.run json server(npx json-server --watch database/db.json --port 8000) in a new terminal
-4 .npm start
+
+4.npm start
 
 -------------------------------------------------
 
