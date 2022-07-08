@@ -22,7 +22,7 @@ const App = () => {
             <Route path="/blogs/:id">
               <BlogDetails/>
             </Route>
-            <Route path="/error404">
+            <Route path="*">
               <NotFound /> 
             </Route>
           </Switch>
